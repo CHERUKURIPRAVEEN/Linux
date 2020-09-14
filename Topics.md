@@ -1,7 +1,6 @@
 #### Linux Topics
-
-   01. What is 'OPERATING SYSTEM'
-   02. File System Hierarchy
+   ##01. What is 'OPERATING SYSTEM'
+   ##02. File System Hierarchy
    03. Basic Commands
    ```sh
       username
@@ -50,8 +49,5 @@
       chmod
       chown
       file
-   ``
-   07.
-   08.
-   09.
-   10.
+   ```
+
